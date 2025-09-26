@@ -1,8 +1,8 @@
-from math import sqrt,pi, exp
+from math import sqrt,pi
 
 def sumar(a,b):
-    sum = a+b
-    return sum
+    resultado = a+b
+    return resultado
 
 def restar (a,b):
     resta = a-b
